@@ -7,7 +7,7 @@ This is a CCTV video analytics software that allows users to search, filter, and
 - **HSL Video Player Component**
   The app includes an `HLSPlayer` component that allows users to play HLS (HTTP Live Streaming) videos. The component supports both HLS and non-HLS video sources and handles browser compatibility. It uses the `hls.js` library to load and play the video.
 
-  Example URL: [https://freelance.cristisatcovschi.ro/cctv/video](https://freelance.cristisatcovschi.ro/cctv)
+  Example URL: [https://freelance.cristisatcovschi.ro/cctv/](https://freelance.cristisatcovschi.ro/cctv/)
 
   Source code: [app/\_ui/HSLPlayer.tsx](https://github.com/cristi-satcovschi/cctv-app/tree/main/app/_ui/HSLPlayer.tsx)
 
