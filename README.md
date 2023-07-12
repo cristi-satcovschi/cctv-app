@@ -47,5 +47,3 @@ To run the CCTV video analytics software locally, follow these steps:
 2. Install dependencies: `npm install`
 3. Start the development server: `npm run dev`
 4. Open the app in your browser: [http://localhost:3000](http://localhost:3000)
-
-Source code: [https://github.com/cristi-satcovschi/cctv-app](https://github.com/cristi-satcovschi/cctv-app)
