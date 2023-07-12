@@ -32,7 +32,7 @@ export default function Search() {
   );
 
   return (
-    <>
+    <div>
       <Head>
         <title>Search - CCTV Video Analytics Software</title>
       </Head>
@@ -48,6 +48,6 @@ export default function Search() {
         {/* Search Results section */}
         <SearchResultsSection results={filteredResults} />
       </div>
-    </>
+    </div>
   );
 }
