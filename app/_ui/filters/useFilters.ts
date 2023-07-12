@@ -39,9 +39,15 @@ export function useFilters({ pageName, filters }: UseSearchFiltersProps) {
     }));
   };
 
-  const handleResetFilters = () => {
-    setFilterValues(filters);
-  };
+  function handleResetFilters() {
+    const resetFilters = { ...filters };
+
+    Object.keys(resetFilters).forEach((key) => {
+      resetFilters[key] = "";
+    });
+
+    setFilterValues(resetFilters);
+  }
 
   return {
     filterValues,
