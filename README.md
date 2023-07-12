@@ -37,7 +37,7 @@ This is a CCTV video analytics software that allows users to search, filter, and
 
   Example URL: [https://freelance.cristisatcovschi.ro/cctv/alerts?page=2](https://freelance.cristisatcovschi.ro/cctv/alerts?page=2)
 
-  Source code: [app/alerts/page.tsx](https://github.com/cristi-satcovschi/cctv-app/tree/main/app/alerts/page.tsx)
+  Source code: [app/\_ui/Pagination.tsx](https://github.com/cristi-satcovschi/cctv-app/blob/main/app/_ui/Pagination.tsx)
 
 ## Installation
 
