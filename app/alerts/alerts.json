@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "type": "Motion Detection",
+    "camera": "camera1",
+    "location": "Main Entrance",
+    "time": "12:45 PM",
+    "status": "resolved",
+    "details": "Event details 1"
+  },
+  {
+    "id": 2,
+    "type": "Intrusion Detection",
+    "camera": "camera2",
+    "location": "Parking Area",
+    "time": "10:15 AM",
+    "status": "unresolved",
+    "details": "Event details 2"
+  },
+  {
+    "id": 3,
+    "type": "Face Recognition",
+    "camera": "camera3",
+    "location": "Reception Area",
+    "time": "09:30 AM",
+    "status": "pending",
+    "details": "Event details 3"
+  },
+  {
+    "id": 4,
+    "type": "Motion Detection",
+    "camera": "camera1",
+    "location": "Main Entrance",
+    "time": "01:20 PM",
+    "status": "unresolved",
+    "details": "Event details 4"
+  },
+  {
+    "id": 5,
+    "type": "Intrusion Detection",
+    "camera": "camera2",
+    "location": "Parking Area",
+    "time": "03:45 PM",
+    "status": "resolved",
+    "details": "Event details 5"
+  },
+  {
+    "id": 6,
+    "type": "Face Recognition",
+    "camera": "camera3",
+    "location": "Reception Area",
+    "time": "08:10 AM",
+    "status": "resolved",
+    "details": "Event details 6"
+  },
+  {
+    "id": 7,
+    "type": "Motion Detection",
+    "camera": "camera1",
+    "location": "Main Entrance",
+    "time": "11:55 AM",
+    "status": "unresolved",
+    "details": "Event details 7"
+  },
+  {
+    "id": 8,
+    "type": "Intrusion Detection",
+    "camera": "camera2",
+    "location": "Parking Area",
+    "time": "02:30 PM",
+    "status": "resolved",
+    "details": "Event details 8"
+  },
+  {
+    "id": 9,
+    "type": "Face Recognition",
+    "camera": "camera3",
+    "location": "Reception Area",
+    "time": "04:15 PM",
+    "status": "pending",
+    "details": "Event details 9"
+  },
+  {
+    "id": 10,
+    "type": "Motion Detection",
+    "camera": "camera1",
+    "location": "Main Entrance",
+    "time": "05:40 PM",
+    "status": "unresolved",
+    "details": "Event details 10"
+  },
+  {
+    "id": 11,
+    "type": "Intrusion Detection",
+    "camera": "camera2",
+    "location": "Parking Area",
+    "time": "09:20 AM",
+    "status": "resolved",
+    "details": "Event details 11"
+  },
+  {
+    "id": 12,
+    "type": "Face Recognition",
+    "camera": "camera3",
+    "location": "Reception Area",
+    "time": "10:45 AM",
+    "status": "resolved",
+    "details": "Event details 12"
+  },
+  {
+    "id": 13,
+    "type": "Motion Detection",
+    "camera": "camera1",
+    "location": "Main Entrance",
+    "time": "12:30 PM",
+    "status": "unresolved",
+    "details": "Event details 13"
+  },
+  {
+    "id": 14,
+    "type": "Intrusion Detection",
+    "camera": "camera2",
+    "location": "Parking Area",
+    "time": "03:10 PM",
+    "status": "unresolved",
+    "details": "Event details 14"
+  },
+  {
+    "id": 15,
+    "type": "Face Recognition",
+    "camera": "camera3",
+    "location": "Reception Area",
+    "time": "04:55 PM",
+    "status": "resolved",
+    "details": "Event details 15"
+  },
+  {
+    "id": 16,
+    "type": "Motion Detection",
+    "camera": "camera1",
+    "location": "Main Entrance",
+    "time": "08:15 AM",
+    "status": "pending",
+    "details": "Event details 16"
+  },
+  {
+    "id": 17,
+    "type": "Intrusion Detection",
+    "camera": "camera2",
+    "location": "Parking Area",
+    "time": "11:50 AM",
+    "status": "resolved",
+    "details": "Event details 17"
+  },
+  {
+    "id": 18,
+    "type": "Face Recognition",
+    "camera": "camera3",
+    "location": "Reception Area",
+    "time": "01:25 PM",
+    "status": "unresolved",
+    "details": "Event details 18"
+  },
+  {
+    "id": 19,
+    "type": "Motion Detection",
+    "camera": "camera1",
+    "location": "Main Entrance",
+    "time": "03:40 PM",
+    "status": "resolved",
+    "details": "Event details 19"
+  },
+  {
+    "id": 20,
+    "type": "Intrusion Detection",
+    "camera": "camera2",
+    "location": "Parking Area",
+    "time": "05:05 PM",
+    "status": "resolved",
+    "details": "Event details 20"
+  }
+]
